@@ -26,6 +26,6 @@ Don't see this email in your inbox? Please check your spam folder and contact [s
 
 If you have a Proton account, you can quickly sign up in SimpleLogin using the "Sign up with Proton" button. A new SimpleLogin will be created using your Proton address.
 
-If you have an Unlimited, Business and Visionary plan in Proton, your SimpleLogin account will be automatically upgraded.
+If you have an Duo, Family, Unlimited, Business and Visionary plan in Proton, your SimpleLogin account will be automatically upgraded.
 
 ![](./sign-up-with-proton.png)
